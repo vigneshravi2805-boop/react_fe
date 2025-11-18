@@ -1,6 +1,6 @@
 # React Frontend Application
 
-A sample React frontend application built with Vite.
+A sample React frontend 
 
 ## Features
 
